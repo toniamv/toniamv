@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @toniamv
-- 👀 I’m interested in computer science, AI and saving the world
-- 🌱 I’m currently focusing on learning java, phyton, C and C++
-- 💞️ I’m looking to collaborate on any project that inspires me and can contribute with my aspirations and anything that can introduce me to something I don't yet know about
-- 📫 You can reach me you through email: toni.gamv@gmail.com
+# 👋 Opa, Eu sou o @toniamv </h1>
 
-<!---
-toniamv/toniamv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Tenho interesse em modelos 3D, IA e em desenvolvimento de sites e softwares
+- 🌱 As linguagens com as quais tenho trabalhado são java, python, C and C++
+- 💞️ Tenho interesse em colaborar em qualquer projeto que seja inspirador ou apresente algo interessante, dentro ou não das minhas atuais expertises
+
+Trajetória | Minha bagagem
+---------- | -------------
+Técnico em Computação Gráfica : IFTM | Introdução a modelagem em Blender, C++
+Bacharelado em Ciência da Computação : UFU | Java, Python, Noções sobre IA
+
+> Você pode entrar em contato através do meu email: toni.gamv@gmail.com
