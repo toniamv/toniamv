@@ -1,7 +1,7 @@
 # Bem-vindo! 👋  
 ### Eu sou Gabriel Antônio (ou @toniamv)
 
-Desenvolvedor apaixonado por **modelos 3D**, **bancos de dados**, e **desenvolvimento de software**.
+Desenvolvedor apaixonado por **modelos 3D**, **bancos de dados**, e **desenvolvimento de software** de forma geral.
 
 ---
 
