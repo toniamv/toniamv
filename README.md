@@ -20,4 +20,6 @@ Desenvolvedor apaixonado por **modelos 3D**, **bancos de dados**, e **desenvolvi
 
 ## Contato
 📧 E-mail: [toni.gamv@gmail.com](mailto:toni.gamv@gmail.com) 
-🌐 LinkedIn: [Seu LinkedIn]([https://www.linkedin.com/in/gabriel-antonio-7b6268342/])  
+🌐 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gabriel-antonio-7b6268342/)  
+
+---
