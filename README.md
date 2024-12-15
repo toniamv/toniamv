@@ -1,7 +1,28 @@
-# 👋 Opa, Eu sou o @toniamv </h1>
+# Bem-vindo! 👋  
+### Eu sou Gabriel Antônio (ou @toniamv)
 
-- 👀 Tenho interesse em modelos 3D, IA e em desenvolvimento de sites e softwares
-- 🌱 As linguagens com as quais tenho trabalhado são java, python, C e C++
-- 👾 Tenho interesse em colaborar em qualquer projeto que seja inspirador ou apresente algo interessante, dentro ou não das minhas atuais expertises
-  
-> Você pode entrar em contato através do meu email: toni.gamv@gmail.com
+Desenvolvedor apaixonado por **modelos 3D**, **bancos de dados**, e **desenvolvimento de software**.
+
+---
+
+## Sobre Mim
+- 🌱 **Linguagens que domino ou estudo atualmente**:  
+  - C
+  - Java  
+  - C++
+  - Python
+  - SQL  
+
+- 👾 **Colaborações**:  
+  Estou aberto para contribuir em **projetos inspiradores** ou **desafiadores**, dentro ou fora das minhas áreas de expertise.
+
+---
+
+## Contato
+📧 E-mail: [toni.gamv@gmail.com](mailto:toni.gamv@gmail.com) 
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toniamv&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
