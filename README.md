@@ -21,8 +21,3 @@ Desenvolvedor apaixonado por **modelos 3D**, **bancos de dados**, e **desenvolvi
 ## Contato
 📧 E-mail: [toni.gamv@gmail.com](mailto:toni.gamv@gmail.com) 
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toniamv&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</div>
