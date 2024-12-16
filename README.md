@@ -1,8 +1,6 @@
 # Bem-vindo! 👋  
 ### Eu sou Gabriel Antonio (ou @toniamv)
 
-Apaixonado por Programação e Ciência de Dados.
-
 ---
 
 ## Sobre Mim
