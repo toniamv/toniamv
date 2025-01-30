@@ -18,6 +18,6 @@
 
 ## Contato
 📧 E-mail: [toni.gamv@gmail.com](mailto:toni.gamv@gmail.com) </br>
-🌐 LinkedIn: [Gabriel Antonio](https://www.linkedin.com/in/gabriel-antonio-7b6268342/)  
+🌐 LinkedIn: [Gabriel Antonio](https://www.linkedin.com/in/gabriel-antonio-martins-vieira-7b6268342/)  
 
 ---
